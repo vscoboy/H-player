@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "electron-positioner": "^4.1.0",
     "electron-store": "^4.0.0",
     "fs-extra": "^8.1.0",
